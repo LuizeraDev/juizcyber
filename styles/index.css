@@ -1,0 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Lato);
+body{
+    font-family: Lato;
+    -webkit-font-smoothing: antialiased;
+    background: #f5f5f5;
+    color: #4c4c5c;
+}
+
+.container{
+    margin-top: 18%;
+}

@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Lato);
+body{
+    font-family: Lato;
+    -webkit-font-smoothing: antialiased;
+    background: #212121;
+    color: hsl(0, 0%, 96%);
+}
+
+.formulario{
+    background-color: #f5f5f5;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+.formulario h5{
+    color: black;
+}
+.formulario input{
+    margin-left: 300px;
+}
